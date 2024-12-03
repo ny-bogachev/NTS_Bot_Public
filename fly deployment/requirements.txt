@@ -1,0 +1,12 @@
+asyncio
+nest_asyncio
+pandas
+python-telegram-bot
+pytz
+apscheduler
+subprocess-run
+telethon
+openai
+argparse
+pymorphy2
+scikit-learn
