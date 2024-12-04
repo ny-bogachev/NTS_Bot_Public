@@ -10,7 +10,7 @@ Instructions and materials to create news-technology-sport Telegram Bot
 
 If you want to create the same type of bot with some custom settings, take the following steps:
 
-1. Create fly.io and OpenAI Platform accounts. The first one is needed for cloud deployment, the second one - for ad block part of project
+1. Create fly.io and OpenAI Platform accounts. The first one is needed for cloud deployment, and the second one is for the ad block part of the project
 2. Create your bot using BotFather in Telegram
 3. Create environmental variables (locally and in fly) OPENAI_API_KEY, TELEGRAM_API_HASH, TELEGRAM_API_ID, and TELEGRAM_NTS_BOT_API
 4. Choose lists of sources (for NTS Bot they are stored in news.txt, sport.txt, and technology.txt)
